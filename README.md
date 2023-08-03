@@ -1,24 +1,3 @@
 # simple-vue-app
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+This simple Vue app was created to demonstrate hosting on GitHub Pages. The link can be found [here](https://adeyinkaoresanya.github.io/simple-vue-application/).
